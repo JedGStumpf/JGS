@@ -1,3 +1,3 @@
-# Intro to Python
+# Learning to code in Python
 
-THis is the intro to python page. 
+This is the intro to python page. 
