@@ -5,3 +5,5 @@ lessons/*
 assignments/*
 !assignments/.keep
 
+# New: Ignore all files in the docs directory
+docs/*
