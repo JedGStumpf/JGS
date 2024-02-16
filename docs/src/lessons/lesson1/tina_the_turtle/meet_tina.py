@@ -1,5 +1,4 @@
 # Tina The Turtle from https://trinket.io/eric-busboom/courses/introduction-to-python-programming
-
 import turtle
 tina = turtle.Turtle()
 tina.shape('turtle')

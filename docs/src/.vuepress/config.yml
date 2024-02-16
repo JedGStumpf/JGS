@@ -1,4 +1,4 @@
-base: /LevelX/
+base: /JGS/
 description: League Level0 Python
 head:
 - - meta
@@ -30,19 +30,11 @@ themeConfig:
   - path: /intro
     title: Introduction
   - children:
-    - path: /lessons/introduction-to-tina-the-turtle/meet-tina-the-turtle/
+    - path: /lessons/lesson1/tina_the_turtle/
       title: Meet Tina the Turtle
-    - path: /lessons/introduction-to-tina-the-turtle/shapes-and-colors/
+    - path: /lessons/lesson1/shapes_and_colors/
       title: Shapes and Colors
     collapsable: false
-    path: /lessons/introduction-to-tina-the-turtle/
+    path: /lessons/lesson1/
     title: Introduction to Tina the Turtle
-  - children:
-    - path: /lessons/fun-with-tina/flaming-ninja-star/
-      title: Flaming Ninja Star
-    - path: /lessons/fun-with-tina/turtle-spiral/
-      title: Turtle Spiral
-    collapsable: false
-    path: /lessons/fun-with-tina/
-    title: Fun with Tina
 title: League Level0 Python
