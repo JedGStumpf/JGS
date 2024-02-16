@@ -1,9 +1,9 @@
 
-lessons/*
+# lessons/*
 !lessons/.keep
 
 assignments/*
-!assignments/.keep
+# !assignments/.keep
 
 # New: Ignore all files in the docs directory
-docs/*
+# docs/*
